@@ -7,3 +7,13 @@
 ```
 git clone https://github.com/tkucd/Koncierge_Frontend
 ```
+
+次に必要なパッケージのインストールをお願いします。
+```
+npm install firebase
+
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+npm install react-router-dom
+```
