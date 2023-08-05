@@ -2,14 +2,14 @@ import { useEffect } from 'react';
 
 import LogIn from '../components/LogIn';
 
-import Logo from '../assets/Logo.png';
-import BackGroundImage from '../assets/BackGroundImage.jpg';
+import Logo from '../assets/IMG_Logo.png';
+import BackGroundImage from '../assets/BG_HomePage.png';
 
 const HomePage = () => {
     const background_css = "flex flex-col items-center justify-center"
-    const logo_css = "h-screen w-screen flex justify-center items-center"
-    const section_css = "w-screen min-h-screen flex items-center justify-center py-20"
-    const loginform_css = "border-r-gray-600 border-r-8 border-b-gray-600 border-b-8 bg-gray-400 p-10 pt-16 pb-16 mb-10 w-2/6"
+    const logo_css = "flex justify-center items-center h-screen w-screen "
+    const section_css = "flex items-center justify-center w-screen min-h-screen py-20"
+    const loginform_css = "rounded-lg bg-retro-bordeaux from-gray-600 to-white-300 border-r-gray-600 border-r-8 border-b-gray-600 border-b-8 p-10 pt-16 pb-16 mb-10 w-2/6"
 
     useEffect(() => {
         window.scrollTo(0, 0);
