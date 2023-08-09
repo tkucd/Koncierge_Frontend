@@ -64,7 +64,7 @@ const LogIn = () => {
                         </div>
                     )}
                     <h2 className={signuptext_css}>
-                        新規ユーザ登録は<Link to="/signup">こちら</Link>
+                        新規ユーザ登録は<Link to="/signUp">こちら</Link>
                     </h2>
                 </div>
             )}
