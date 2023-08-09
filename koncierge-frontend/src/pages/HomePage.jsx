@@ -1,6 +1,6 @@
 import { useEffect } from 'react';
 
-import LogIn from '../components/LogIn';
+import LogIn from '../components/Login';
 
 import Logo from '../assets/IMG_Logo.png';
 import BackGroundImage from '../assets/BG_HomePage.png';
