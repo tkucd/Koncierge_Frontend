@@ -56,7 +56,7 @@ const SelectModePage = () => {
                 }}
             >
                 <div className={title_css}>
-                    <h2 className="text-7xl mb-2">モード選択</h2>
+                    <h2 className="text-6xl mb-2">モード選択</h2>
                     <button
                         className={hundlemakecuisine_css}
                         onClick={handleMakeCuisine}
