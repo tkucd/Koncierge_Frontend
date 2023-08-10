@@ -22,3 +22,6 @@ npm install react-router-dom
 ```
 npm run dev
 ```
+
+## [Koncierge_Backend](https://github.com/tkucd/Koncierge_Backend)に関して
+本プロジェクトで使用しているAPIを実装しています。
