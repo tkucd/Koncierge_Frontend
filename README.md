@@ -17,3 +17,8 @@ npx tailwindcss init -p
 
 npm install react-router-dom
 ```
+
+インストール後、開発環境で起動してください。
+```
+npm run dev
+```
