@@ -1,5 +1,5 @@
 # Koncierge_Frontend
-![Frame 8](https://github.com/tkucd/Koncierge_Frontend/assets/92442298/b297eb56-1b2f-46ca-b953-4f656d4698dc)
+![Frame 8](https://github.com/tkucd/Koncierge_Frontend/assets/92442298/17c5009b-f937-47fb-8abb-6af01bb5edff)
 
 ## Koncierge_Frontedの使い方
 以下ではローカルでの実行手順を記載します。
